@@ -1,4 +1,14 @@
+@font-face {
+    font-family: "Nanum Gothic";
+    src: url("NanumGothic-Regular.woff2") format("woff2"),
+         url("NanumGothic-Regular.woff") format("woff"),
+         url("NanumGothic-Regular.eot") format("eot");
+    font-weight: 600;
+    font-style: normal;
+}
+
 .hello {
     color: red;
     /*background: url('./icon.png');*/
+    font-family: "Nanum Gothic", sans-serif;
 }
