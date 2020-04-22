@@ -24,6 +24,7 @@ out/
 /nbproject/private/
 /nbbuild/
 /webpack-demo/dist/*.js
+/webpack-demo/dist/*.css
 /nbdist/
 /.nb-gradle/
 
