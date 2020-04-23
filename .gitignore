@@ -23,12 +23,12 @@ out/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
-/webpack-demo/dist/*.js
-/webpack-demo/dist/*.css
-/webpack-demo/dist/*.png
-/webpack-demo/dist/*.eot
-/webpack-demo/dist/*.woff2
-/webpack-demo/dist/*.woff
+**/dist/*.js
+**/dist/*.css
+**/dist/*.png
+**/dist/*.eot
+**/dist/*.woff2
+**/dist/*.woff
 /nbdist/
 /.nb-gradle/
 
