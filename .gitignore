@@ -26,6 +26,9 @@ out/
 /webpack-demo/dist/*.js
 /webpack-demo/dist/*.css
 /webpack-demo/dist/*.png
+/webpack-demo/dist/*.eot
+/webpack-demo/dist/*.woff2
+/webpack-demo/dist/*.woff
 /nbdist/
 /.nb-gradle/
 
