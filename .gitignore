@@ -26,9 +26,11 @@ out/
 **/dist/*.js
 **/dist/*.css
 **/dist/*.png
+**/dist/*.html
 **/dist/*.eot
 **/dist/*.woff2
 **/dist/*.woff
+**/dist/*.
 /nbdist/
 /.nb-gradle/
 
